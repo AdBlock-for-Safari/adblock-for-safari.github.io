@@ -1,0 +1,1 @@
+# adblock-for-safari.github.io
